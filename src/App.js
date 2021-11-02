@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        Hey thereaaa FGHJKL
+        Hey thereaaa Furqan
         <Header />
       </header>
     </div>
